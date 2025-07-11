@@ -3,14 +3,9 @@
     "title": "YAxUnit Fork Bychkov",
     "description": "YAxUnit. Расширение для запуска тестов. Форк от Бычкова А. для тестирования Context7",
     "docsRepoUrl": "https://github.com/ArtemB91/yaxunit",
+    "folders": ["documentation"],
+    "excludeFolders": ["exts", ".github", "tests"],
     "branch": "develop",
-    "type": "repo",
-    "folders": [
-      "documentation"
-    ],
-    "excludeFolders": [
-      "exts",
-      ".github"
-    ]
+    "type": "repo"
   }
 }
