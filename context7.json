@@ -1,11 +1,8 @@
 {
-  "settings": {
-    "title": "YAxUnit Fork Bychkov",
-    "description": "YAxUnit. Расширение для запуска тестов. Форк от Бычкова А. для тестирования Context7",
-    "docsRepoUrl": "https://github.com/ArtemB91/yaxunit",
-    "folders": ["documentation"],
-    "excludeFolders": ["exts", ".github", "tests"],
-    "branch": "develop",
-    "type": "repo"
-  }
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "YAxUnit. Fork for Context7",
+  "description": "YAxUnit — инструмент написания unit-тестов для решений на платформе 1С:Предприятие. Поставляется в виде расширения.",
+  "folders": ["documentation/docs/**"],
+  "excludeFolders": ["src", "exts", ".github", "tests"],
+  "excludeFiles": []
 }
