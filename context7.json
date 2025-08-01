@@ -1,8 +1,8 @@
 {
   "$schema": "https://context7.com/schema/context7.json",
   "projectTitle": "YAxUnit. Fork for Context7",
-  "description": "YAxUnit — инструмент написания unit-тестов для решений на платформе 1С:Предприятие. Поставляется в виде расширения.",
-  "folders": ["documentation/docs/**"],
+  "description": "YAxUnit — инструмент написания unit-тестов для решений на платформе 1С:Предприятие. Поставляется в виде расширения",
+  "folders": ["documentation"],
   "excludeFolders": ["src", "exts", ".github", "tests"],
   "excludeFiles": []
 }
