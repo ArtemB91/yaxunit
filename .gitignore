@@ -34,7 +34,6 @@ tests/.settings/*
 
 #wsdl
 /fixtures/wsdl
-documentation/api/
 *.jar
 /tools/**/distr/
 workpath/
